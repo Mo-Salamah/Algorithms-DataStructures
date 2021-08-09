@@ -3,7 +3,7 @@
 The program `PercolationStats` takes two command-line arguments _n_ and _T_,
 performs _T_ independent computational experiments on an _n_ * _n_ grid, and
 prints the mean, standard deviation, and the 95% confidence interval for the
-percolation threshold. PercolationStats utilizes the program Percolation.
+percolation threshold. PercolationStats utilizes the Percolation program.
 For more informations, check [the official assignment description][1].
 
 
